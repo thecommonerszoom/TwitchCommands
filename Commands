@@ -1,0 +1,41 @@
+Commands that can used on chat- You can copy and paste them or simply time the command that is after the "-", example you'll send twitch chat "!uptime", it'll output its coded response.
+-!uptime		              +For you to know how long have we been blabbering on our Podcast.
+-!followage		            +For you to know how long have you been followed to us and possible flex it to others.
+-!shoutout		            +We'll shout you out when you avail this perk for only 30 Commoner Coins.
+-!jumpscare		            +IDK, I guess you're a sadist and want to scare us.
+-!rae			                +Claim for a special surprise sound by rae
+-!lily			              +Claim for a wierd surprise from lily
+-!ocee			              +Claim for a wonderful prize from ocee
+
+>Commoner Coins- The currency you earn when you watch the stream, you gain 5 Commoner Coins every 10 minutes when you're only watching and you gain an additional 5 Commoner Coins when you're also active in the chat!
+-!cc			                +Displays the amount of Commoner Coins the user has.	
+-!top			                +Displays a list of the Top Commoners based on points.		
+-!tophours		            +Displays a list of the Top Commoners based on hours.	
+-!give		                +Give points to a fellow Commoner using !give <name> <amount>
+-!gamble <points>	        +Allows you to gamble using your points.
+-!slots	<points>	        +Allows you to gamble points on the slot machine.
+-!redeem		              +Allows you to redeem items from our local common store through chat
+
+>Duels (CommonersvCommoners, CvC):
+-!CvC <username> <points> +Engange in CvC with each other Commoners for points.	
+-!accept			            +To accept and start the CvC.
+-!deny			              +To deny an invite for a CvC.
+-!cancel			            +Lets you cancel the ongoing CvC.
+
+>Heist:
+-!heist <points>	        +Gives you a chance to win massive massaive amounts of Commoner Coins when there are enough Evil Commoners in the chat
+			                    +To start a heist, there must be atleast 3 Evil Commoners (participants) and up to 300 Evil Commoners in one heist.
+			                    +After confirming that there are 3 or more participants, the heist will start in 1 min
+			                    +And also, heists are only available every 5 minutes
+			                    +Payout of winners:
+			                      If you're viewer you may win 150 Commoner Coins 
+		                      	and if you're a subscriber you may win 250 Commoner Coins 
+			                      and lastly, if you're a moderator you may win 300 Commoner Coins 
+
+>Betting- We will sometimes engage viewers with betting and the winning answer will be decided by the wheel of faith.		
+Who's cuter bet:
+-!bet lily		           +Put your Commoner Coins on hopes that lily'll win
+-!bet rae		             +Put your Commoner Coins on hopes that rae'll win
+-!bet ocee		           +Put your Commoner Coins on hopes that ocee'll win
+
+!!SPAMMING OF COMMANDS WILL RESULT IN INCREASING TIMEOUT PUNISHMENTS, UNTIL 3RD OFFENSE=BAN 1(one) WEEK!!
